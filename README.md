@@ -47,12 +47,11 @@ With a background in **Data Engineering & BI**, I focus on:
 ## 🧰 Tools I Use
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=sqlserver,powerbi,excel,python,databricks&theme=light" />
+<img src="https://skillicons.dev/icons?i=mssql,powerbi,excel,python,git,github&theme=light" />
 
 </div>
 
 ---
-
 ## 📂 Featured Projects
 ### 🚀 [Restaurant BI: 11M Records Pipeline](Link-To-Repo)
 *Engineered a Databricks/Spark pipeline for 11M+ records, resolving memory bottlenecks and delivering a comprehensive Power BI dashboard.*
