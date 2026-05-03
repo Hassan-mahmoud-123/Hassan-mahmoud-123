@@ -47,7 +47,7 @@ With a background in **Data Engineering & BI**, I focus on:
 ## 🧰 Tools I Use
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=powerbi,sqlserver,python,github,git,Excel,DataBricks&theme=light" />
+<img src="https://skillicons.dev/icons?i=sqlserver,powerbi,excel,python,databricks&theme=light" />
 
 </div>
 
