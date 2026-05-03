@@ -6,9 +6,9 @@
 <h1 align="center">Hassan Mahmoud</h1>
 
 <p align="center">
-<strong>Aspiring Data Analyst</strong><br/>
-Graduated of Computer & Data Science<br/>
-Excel • SQL • Power BI
+<strong>Junior Power BI Developer | Data Analyst</strong><br/>
+Specialized in Large-scale Data Modeling & End-to-End BI Solutions<br/>
+SQL • Power BI (DAX) • Databricks • Excel
 </p>
 
 </div>
@@ -16,97 +16,70 @@ Excel • SQL • Power BI
 ---
 
 ## 👋 About Me
-I am an **Aspiring Data Analyst** with a strong academic background in **Computer and Data Science**.  
-I am passionate about working with data to uncover insights, build dashboards, and support data-driven decision making.
+I am a **Junior Power BI Developer** and a Computer & Data Science graduate. I specialize in transforming fragmented, large-scale data into interactive, high-impact business insights. 
 
-I have hands-on experience through **personal and academic projects**, focusing on:
-- Data cleaning and transformation  
-- Database design and querying  
-- Business intelligence and visualization  
+With a background in **Data Engineering & BI**, I focus on:
+- **Scalable ETL Pipelines:** Handling 11M+ records using Databricks & Spark.
+- **Advanced Data Modeling:** Designing Star and Snowflake schemas for complex business logic.
+- **DAX Optimization:** Building sophisticated measures for proactive business decision-making.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Toolbox
 
-### 📊 Data Analysis & BI
-- **Microsoft Excel**
-  - Power Query
-  - Power Pivot
-  - Pivot Tables
-  - Advanced formulas & functions
-- **Power BI**
-  - Data Modeling
-  - DAX measures
-  - Calculated Columns
-  - Interactive dashboards
+### 📊 Power BI & Visualization
+- **Advanced DAX & Power Query (M)**
+- **Data Modeling:** Star & Snowflake Schemas
+- **Performance Optimization** & Row-Level Security (RLS)
+- **Geospatial Analysis:** Azure Maps integration
 
-### 🗄️ Databases & SQL
-- **Microsoft SQL Server**
-  - Aggregate functions
-  - Joins
-  - Subqueries
-  - Window functions
-  - CTEs
-- **MySQL**
-- Database concepts:
-  - Relationships
-  - ERD design
-  - Schema design
+### 🗄️ Data Engineering & Databases
+- **Databricks & Apache Spark:** Building scalable data pipelines.
+- **SQL Server & MySQL:** CTEs, Window Functions, and Query Optimization.
+- **Delta Lake Architecture** for data consistency.
 
-### 🧠 Analytical Skills
-- Data visualization
-- Critical thinking
-- Problem solving
+### 🐍 Programming & Tools
+- **Python:** Data cleaning (Pandas, NumPy) & Automation.
+- **Excel:** Advanced Modeling, Power Pivot, and Macros.
 
 ---
 
 ## 🧰 Tools I Use
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=powerbi,sqlserver,python,github,git,mysql,pycharm&theme=light" />
 
 </div>
 
-- Microsoft Excel  
-- Power BI  
-- SQL Server  
-- MySQL  
-- Git & GitHub  
-
 ---
 
-## 📂 Projects
-Here are some of the types of projects you will find in my repositories:
+## 📂 Featured Projects
+### 🚀 [Restaurant BI: 11M Records Pipeline](Link-To-Repo)
+*Engineered a Databricks/Spark pipeline for 11M+ records, resolving memory bottlenecks and delivering a comprehensive Power BI dashboard.*
 
-- **Sales & Business Analysis Dashboards**
-  - KPIs such as Total Sales, Profit, Orders, and Customer Insights
-- **Database Design Projects**
-  - Fact & Dimension modeling
-  - ERD and relationships
-- **Data Cleaning & Transformation**
-  - Excel Power Query
-  - SQL transformations
+### 📈 [Services Performance Analysis](Link-To-Repo)
+*Architected a Snowflake schema in Power BI to track 670+ contracts and visualized spatial quality across Egypt using Azure Maps.*
 
-👉 *Check my repositories below to see detailed project work.*
+### 🏥 [Health Care Data Analysis](Link-To-Repo)
+*Streamlined 55K+ hospital records into a clean Star Schema, focusing on patient LOS and seasonal trends.*
 
 ---
 
 ## 📚 Currently Learning
-- Advanced SQL techniques  
-- DAX optimization  
-- Data modeling best practices  
-- Improving dashboard storytelling  
+- Advanced Cloud Data Warehousing (Snowflake/Azure)
+- Machine Learning integration with Power BI
+- Advanced Python for Data Engineering
 
 ---
 
 ## 🤝 Connect With Me
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/hassan-mahmoud-45a978232">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:your_email_here@gmail.com">
+<a href="mailto:hassanmahmoudhasssan125@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -116,5 +89,5 @@ Here are some of the types of projects you will find in my repositories:
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=gradient" width="100%" />
-<p style="opacity:0.7;">© Hassan Mahmoud — Aspiring Data Analyst</p>
+<p style="opacity:0.7;">© 2026 Hassan Mahmoud — Data Professional</p>
 </div>
