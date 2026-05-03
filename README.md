@@ -35,7 +35,7 @@ With a background in **Data Engineering & BI**, I focus on:
 
 ### 🗄️ Data Engineering & Databases
 - **Databricks & Apache Spark:** Building scalable data pipelines.
-- **SQL Server & MySQL:** CTEs, Window Functions, and Query Optimization.
+- **SQL Server & Data Base:** CTEs, Window Functions, and Query Optimization.
 - **Delta Lake Architecture** for data consistency.
 
 ### 🐍 Programming & Tools
@@ -47,7 +47,7 @@ With a background in **Data Engineering & BI**, I focus on:
 ## 🧰 Tools I Use
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=powerbi,sqlserver,python,github,git,mysql,pycharm&theme=light" />
+<img src="https://skillicons.dev/icons?i=powerbi,sqlserver,python,github,git,Excel,DataBricks&theme=light" />
 
 </div>
 
