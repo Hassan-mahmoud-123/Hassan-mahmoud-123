@@ -53,7 +53,7 @@ With a background in **Data Engineering & BI**, I focus on:
 
 ---
 ## 📂 Featured Projects
-### 🚀 [Restaurant BI: 11M Records Pipeline](Link-To-Repo)
+### 🚀 [Restaurant BI: 11M Records Pipeline](https://github.com/Hassan-mahmoud-123/Restaurant-BI-Pipeline)
 *Engineered a Databricks/Spark pipeline for 11M+ records, resolving memory bottlenecks and delivering a comprehensive Power BI dashboard.*
 
 ### 📈 [Services Performance Analysis](Link-To-Repo)
