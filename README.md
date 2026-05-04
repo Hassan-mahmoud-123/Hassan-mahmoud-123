@@ -56,7 +56,7 @@ With a background in **Data Engineering & BI**, I focus on:
 ### 🚀 [Restaurant BI: 11M Records Pipeline](https://github.com/Hassan-mahmoud-123/Restaurant-BI-Pipeline)
 *Engineered a Databricks/Spark pipeline for 11M+ records, resolving memory bottlenecks and delivering a comprehensive Power BI dashboard.*
 
-### 📈 [Services Performance Analysis](Link-To-Repo)
+### 📈 [Services Performance Analysis](https://github.com/Hassan-mahmoud-123/Service-Ops-360-Analytics/blob/main/README.md)
 *Architected a Snowflake schema in Power BI to track 670+ contracts and visualized spatial quality across Egypt using Azure Maps.*
 
 ### 🏥 [Health Care Data Analysis](Link-To-Repo)
