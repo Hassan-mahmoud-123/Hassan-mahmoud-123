@@ -59,9 +59,8 @@ With a background in **Data Engineering & BI**, I focus on:
 ### 📈 [Services Performance Analysis](https://github.com/Hassan-mahmoud-123/Service-Ops-360-Analytics/blob/main/README.md)
 *Architected a Snowflake schema in Power BI to track 670+ contracts and visualized spatial quality across Egypt using Azure Maps.*
 
-### 🏥 [Health Care Data Analysis](Link-To-Repo)
-*Streamlined 55K+ hospital records into a clean Star Schema, focusing on patient LOS and seasonal trends.*
-
+### 🚲 AdventureWorks Business Intelligence(Link-To-Repo)
+Transformed global sales data into a Snowflake Schema, analyzing $24.9M revenue and optimizing return rates across 3 continents.
 ---
 
 ## 📚 Currently Learning
