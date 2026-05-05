@@ -61,10 +61,6 @@ With a background in **Data Engineering & BI**, I focus on:
 
 ### 🚲 [AdventureWorks Business Intelligence](Link-To-Repo)
 Transformed global sales data into a Snowflake schema, analyzing $24.9M revenue and optimizing return rates across 3 continents.
-## 📚 Currently Learning
-- Advanced Cloud Data Warehousing (Snowflake/Azure)
-- Machine Learning integration with Power BI
-- Advanced Python for Data Engineering
 
 ---
 
