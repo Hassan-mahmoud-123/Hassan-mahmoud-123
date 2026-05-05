@@ -60,8 +60,7 @@ With a background in **Data Engineering & BI**, I focus on:
 *Architected a Snowflake schema in Power BI to track 670+ contracts and visualized spatial quality across Egypt using Azure Maps.*
 
 ### 🚲 [AdventureWorks Business Intelligence](Link-To-Repo)
-Transformed global sales data into a Snowflake Schema, analyzing $24.9M revenue and optimizing return rates across 3 continents.
----
+Architected a Snowflake schema in Power BI to analyze $24.9M revenue and visualized global performance across 3 continents with return rate optimization.---
 
 ## 📚 Currently Learning
 - Advanced Cloud Data Warehousing (Snowflake/Azure)
